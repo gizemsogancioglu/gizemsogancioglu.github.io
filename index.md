@@ -24,6 +24,7 @@ Currently, for my postdoctoral project, I am collaborating with researchers, dat
 ## News
 {% comment %} 
 - **[Oct 2024]** Our paper titled "Fairness in AI-based mental health: Clinician perspectives and bias mitigation" has been accepted at **AIES 2024**.
-{% endcomment %} 
-
 {% include_relative _includes/publications.md %}
+
+- {% endcomment %} 
+

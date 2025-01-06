@@ -1,8 +1,8 @@
 # Basic Information 
-title: Itir Onal Ertugrul
-position: Assistant Professor
-affiliation: Utrecht University
-email: i.onalertugrul (at) uu.nl
+title: Gizem Sogancioglu
+position: Postdoctoral Researcher
+affiliation: University Medical Center Utrecht
+email: g.sogancioglu (at) umcutrecht.nl
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -20,9 +20,9 @@ twitter: https://twitter.com/itironal
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/itir_cmu_foto.jpg
-favicon: ./assets/img/itir_cmu_foto.jpg
-favicon_dark: ./assets/img/itir_cmu_foto.jpg
+avatar: ./assets/img/avatar.jpg
+favicon: ./assets/img/avatar.jpg
+favicon_dark: ./assets/img/avatar.jpg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
