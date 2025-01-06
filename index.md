@@ -22,7 +22,9 @@ Currently, for my postdoctoral project, I am collaborating with researchers, dat
 <!--## [Publications](./another-page.md)-->
 
 ## News
-{% comment %} 
+- **[Oct 2024]** I joined the PsyData team in the Department of Psychiatry at UMC Utrecht as a **Postdoctoral Researcher**. 
+- **[Oct 2024]** I officially submitted my PhD dissertation. 
+{% comment %}
 - **[Oct 2024]** Our paper titled "Fairness in AI-based mental health: Clinician perspectives and bias mitigation" has been accepted at **AIES 2024**.
 {% include_relative _includes/publications.md %}
 
