@@ -22,6 +22,7 @@ Currently, for my postdoctoral project, I am collaborating with researchers, dat
 <!--## [Publications](./another-page.md)-->
 
 ## News
+- **[May 15, 2025]** I successfully defended my PhD thesis.  
 - **[Oct 2024]** I joined the PsyData team in the Department of Psychiatry at UMC Utrecht as a **Postdoctoral Researcher**. 
 - **[Oct 2024]** I officially submitted my PhD dissertation. 
 {% comment %}
